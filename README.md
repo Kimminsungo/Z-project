@@ -1,2 +1,2 @@
 # Z-project
-내가 모든것을 만든 아무마켓 (큰돈을 벌꺼야!)
+Super Simple Soft market
